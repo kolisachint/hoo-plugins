@@ -1,0 +1,20 @@
+{
+  "name": "hoo-plugins",
+  "owner": {
+    "name": "kolisachint"
+  },
+  "description": "The official hoocode plugin marketplace: a listing of plugins for hoocode.",
+  "plugins": [
+    {
+      "name": "webtools",
+      "description": "Web fetch and search tools (WASM, gated network)",
+      "version": "0.6.0",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/kolisachint/hoo-web-plugin.git",
+        "path": "plugin",
+        "ref": "main"
+      }
+    }
+  ]
+}
