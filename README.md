@@ -17,7 +17,7 @@ no extra grant.
 
 | Plugin | Version | What it does |
 |---|---|---|
-| `webtools` | 0.7.2 | Web fetch and search tools (WASM, gated network) |
+| `webtools` | 0.7.3 | Web fetch and search tools (WASM, gated network) |
 
 ## License
 
