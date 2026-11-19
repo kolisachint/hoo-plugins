@@ -8,7 +8,7 @@
     {
       "name": "webtools",
       "description": "Web fetch and search tools (WASM, gated network)",
-      "version": "0.7.2",
+      "version": "0.7.3",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/kolisachint/hoo-web-plugin.git",
