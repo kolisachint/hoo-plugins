@@ -18,7 +18,7 @@ no extra grant.
 | Plugin | Version | What it does |
 |---|---|---|
 | `webtools` | 0.7.3 | Web fetch and search tools (WASM, gated network) |
-| `hoo-browser` | 0.1.9 | Browser automation: one shared Chromium, a tab lease per agent (native helper) |
+| `hoo-browser` | 0.1.10 | Browser automation: one shared Chromium, a tab lease per agent (native helper) |
 
 ## License
 

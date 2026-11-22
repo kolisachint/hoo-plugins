@@ -19,7 +19,7 @@
     {
       "name": "hoo-browser",
       "description": "Browser automation for hoocode: one shared Chromium driven via the agent-browser CLI, one tab lease per agent over a tier C helper.",
-      "version": "0.1.9",
+      "version": "0.1.10",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/kolisachint/hoo-browser-plugin.git",
